@@ -270,6 +270,8 @@ void Mapper253_Init(CartInfo *);
 void Mapper254_Init(CartInfo *);
 void Mapper406_Init(CartInfo *);
 
+void HNY1_Init(CartInfo *);
+
 typedef struct {
 	const char *name;
 	int32 number;

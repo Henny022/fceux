@@ -383,7 +383,8 @@ set(SRC_CORE
   	${CMAKE_CURRENT_SOURCE_DIR}/boards/ghostbusters63in1.cpp
   	${CMAKE_CURRENT_SOURCE_DIR}/boards/gs-2004.cpp
   	${CMAKE_CURRENT_SOURCE_DIR}/boards/gs-2013.cpp
-  	${CMAKE_CURRENT_SOURCE_DIR}/boards/h2288.cpp
+	${CMAKE_CURRENT_SOURCE_DIR}/boards/h2288.cpp
+	${CMAKE_CURRENT_SOURCE_DIR}/boards/hny1.cpp
   	${CMAKE_CURRENT_SOURCE_DIR}/boards/hp10xx_hp20xx.cpp
   	${CMAKE_CURRENT_SOURCE_DIR}/boards/hp898f.cpp
   	${CMAKE_CURRENT_SOURCE_DIR}/boards/inlnsf.cpp
